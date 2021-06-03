@@ -4,7 +4,7 @@ version = "0.3.3"
 description = ""
 authors = ["Freddie Gould <fgould@haverford.edu>"]
 packages = [
-    { include = "crim-intervals" },
+    { include = "crim_intervals" },
 ]
 
 [tool.poetry.dependencies]
